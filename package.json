@@ -1,0 +1,23 @@
+{
+  "name": "testes-ebac-ui-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPurkot86-hub/testes-ebac-ui-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPurkot86-hub/testes-ebac-ui-cypress/issues"
+  },
+  "homepage": "https://github.com/CPurkot86-hub/testes-ebac-ui-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
