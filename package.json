@@ -19,5 +19,8 @@
   "homepage": "https://github.com/CPurkot86-hub/testes-ebac-ui-cypress#readme",
   "devDependencies": {
     "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2"
   }
 }
